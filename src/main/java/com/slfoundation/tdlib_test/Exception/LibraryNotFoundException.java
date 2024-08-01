@@ -4,4 +4,5 @@ public class LibraryNotFoundException extends Throwable {
     public LibraryNotFoundException(final Error e) {
         super();
     }
+
 }
